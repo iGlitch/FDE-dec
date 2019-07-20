@@ -1,6 +1,11 @@
 ### FDE.AI v4 | FeraVolt. 2019 ###
 . /fde.ai/s/libfde.so;
-if [ "$CA" -le "3351" ];then setprop net.tcp.buffersize.hsdpa 4096,32768,65536,4096,32768,65536;setprop net.tcp.buffersize.hspa 4096,32768,65536,4096,32768,65536;setprop net.tcp.buffersize.hspap 4096,32768,65536,4096,32768,65536;setprop net.tcp.buffersize.hsupa 4096,32768,65536,4096,32768,65536;setprop net.tcp.buffersize.umts 4095,87380,110208,4096,32768,110208;
+if [ "$CA" -le "3351" ];then
+setprop net.tcp.buffersize.hsdpa 4096,32768,65536,4096,32768,65536;
+setprop net.tcp.buffersize.hspa 4096,32768,65536,4096,32768,65536;
+setprop net.tcp.buffersize.hspap 4096,32768,65536,4096,32768,65536;
+setprop net.tcp.buffersize.hsupa 4096,32768,65536,4096,32768,65536;
+setprop net.tcp.buffersize.umts 4095,87380,110208,4096,32768,110208;
 flog "- Data conncetions tuned for power-saving";
 fi;
 fi;
