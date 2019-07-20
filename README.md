@@ -11,5 +11,5 @@ So yeah, I just decompiled and unminified the most scripts so that it's legible 
 <code>- ARMv8 (arm64-v8a)</code><br>
 <code>- x64bit (x86_64)</code><br>
 <b>Supported Android OS versions:</b><br>
-<code>- 2.3 and higher</code><br></p>
-
+<code>- 2.3 and higher</code><br></p><br><br>
+<p><b>Each .so contains the logging of what it does. Read em :)</b><br>
