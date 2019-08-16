@@ -1,0 +1,13 @@
+#!/system/bin/sh
+### FDE.AI v5? | FeraVolt. 2019 ###
+sleep 27;
+SYSFD=/sbin/.magisk/img/FDE/system;
+killall -q fde>/dev/null 2>&1;
+rm -Rf /dev/fdeai>/dev/null 2>&1;
+mkdir -p /dev/fdeai;
+chmod -R 700 /dev/fdeai;
+cp -f $SYSFD/etc/fde.ai/fde64 /dev/fdeai/fde;
+rm -Rf $SYSFD/etc/fde.ai/fde32;
+rm -Rf $SYSFD/etc/fde.ai/fde86;
+chmod 700 /dev/fdeai/fde;
+/dev/fdeai/fde>/dev/null 2>&1 &

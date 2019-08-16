@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: install.sh
+SHA1-Digest: YhqDP5ZyKy2BU+8xhGdXxQhSvpI=
+
+Name: anti-theft.jpg
+SHA1-Digest: LC9e8DFHijlsDCLzcUmUzLWXVjc=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Qtt038jvkzP05zaSBITuctlchLU=
+
+Name: ai.png
+SHA1-Digest: czUprsJWdSVeb8WiODsjXyJt30w=
+
+Name: system/etc/fde.ai/r.bin
+SHA1-Digest: Lt+0On2OkS3L4L/AsygDPfZhokY=
+
+Name: common/service.sh
+SHA1-Digest: w2wsE8/ZSeC9UWn7dyss6i6TH3w=
+
+Name: README.md
+SHA1-Digest: gakammK1Pfs6NOSFgu6zBkXvwxQ=
+
+Name: changelog.txt
+SHA1-Digest: WhLAh46PYbT/aCeqnrL0tdx79ks=
+
+Name: module.prop
+SHA1-Digest: yaEvL04OyrhVna196It+z7kw3Dg=
+
+Name: screenshot.png
+SHA1-Digest: Zu1fSXoGFbVUXUKkdxmXv9cVpgE=
+
+Name: system/etc/fde.ai/fde32
+SHA1-Digest: AtkBu7yCnpNtrs4Fo3thCnGKU30=
+
+Name: LICENSE
+SHA1-Digest: TMd7kK+R5hWmSuBIk/3/p5OduEw=
+
+Name: system/etc/fde.ai/fde64
+SHA1-Digest: gCpp9n/eEbqyxiqV4Rf0QhZl/i0=
+
+Name: system/etc/fde.ai/fde86
+SHA1-Digest: n3rLw1/T9m8gTxjPwbc7wS7D32Y=
+

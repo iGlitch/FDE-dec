@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Laq4gz+Sjw1McB91S3RwDMIUljM=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: install.sh
+SHA1-Digest-Manifest: yiFLz1VzyxbZmaiQuvVdHdtG4q0=
+
+Name: anti-theft.jpg
+SHA1-Digest-Manifest: YRLhvRbvq3Tj0sbChc5yyHcEvTc=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: 48vhVGeUh/rYWRApA7wpQtDWjXA=
+
+Name: ai.png
+SHA1-Digest-Manifest: Kvtwks4amJV2vbnWs4sutBtbj7U=
+
+Name: system/etc/fde.ai/r.bin
+SHA1-Digest-Manifest: XsoT8ANs4RbfA9Q/SFES3bDrFp0=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: fjAm5DOux1LJkebxMT/32feaHJg=
+
+Name: README.md
+SHA1-Digest-Manifest: oNBSpLZXppJ2sEw0jZFB6lU821A=
+
+Name: changelog.txt
+SHA1-Digest-Manifest: 79C1zEr4KbCdLw4mlvtYq4TVx3I=
+
+Name: module.prop
+SHA1-Digest-Manifest: XW7l6Gu18ZWQLNGm54Yca0jRQ40=
+
+Name: screenshot.png
+SHA1-Digest-Manifest: bpaR4zmU4LFWb91nw/r/uDe1h8w=
+
+Name: system/etc/fde.ai/fde32
+SHA1-Digest-Manifest: zETUwW8CNj88UF3TJwll9FZUiWA=
+
+Name: LICENSE
+SHA1-Digest-Manifest: A/UlHbZVvJgTx9xE2eCg3myXJDQ=
+
+Name: system/etc/fde.ai/fde64
+SHA1-Digest-Manifest: 4SzjGvMuNK4mhnQDE67lu0w8vto=
+
+Name: system/etc/fde.ai/fde86
+SHA1-Digest-Manifest: uxPnOQHNMmGjRna0G5eqcOIYAXc=
+
